@@ -74,3 +74,4 @@ Elif Demir<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+[Tello, David](https://github.com/dtellobravo)<br/>
